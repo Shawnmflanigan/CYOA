@@ -1,8 +1,7 @@
 {
     "development": {
       "username": "root",
-      
-      "password": "castaway",
+      "password": "B00tC@mp",
       "database": "CYOA_db",
       "host": "127.0.0.1",
       "dialect": "mysql"
@@ -17,7 +16,7 @@
     "production": {
       "username": "root",
       
-      "password": "castaway",
+      "password": "B00tC@mp",
       "database": "CYOA_db",
       "host": "127.0.0.1",
       "dialect": "mysql"
